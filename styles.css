@@ -3,6 +3,7 @@
         h1{color: blue;} 
         body{background-color: green;}
         #nav{
+            padding-left:0;
             margin-left:0;
         }
         #nav li{
